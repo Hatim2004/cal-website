@@ -1,0 +1,48 @@
+.cal{
+    width: 20rem;
+    height: 20rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.cal table{
+    width: 20rem;
+    height: 20rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.btn{
+    font-size: larger;
+    width: 5rem;
+    height: 5rem;
+    background-color: rgba(0, 0, 0, 0.445);
+    border: black solid;
+    border-radius: 5px;
+    color: white;
+    
+}
+
+.btn:hover{
+    background-color: rgba(0, 0, 0, 0.541); 
+}
+
+.input_text{
+    text-align: right;
+    padding-right: 5px;
+    width: 20.32rem;
+    height: 5rem;
+    background-color: rgba(0, 0, 0, 0.349);
+    color: white;
+    font-size: 30px;
+    border: black solid;
+    margin-left: 0px;
+    border-radius: 5px;
+}
+
+body{
+    background-color: dodgerblue;
+    
+}
