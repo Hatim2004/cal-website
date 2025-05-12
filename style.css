@@ -3,6 +3,8 @@
     height: 20rem;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 10rem;
+    margin-bottom: auto;
     text-align: center;
 }
 
@@ -38,7 +40,6 @@
     color: white;
     font-size: 30px;
     border: black solid;
-    margin-left: 0px;
     border-radius: 5px;
 }
 
