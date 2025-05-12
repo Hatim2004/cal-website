@@ -40,5 +40,7 @@
 
 body{
     background-color: dodgerblue;
-    
+    background-image: linear-gradient(180deg,#0081ff,#ff0000);
+    background-attachment: fixed;
 }
+    
